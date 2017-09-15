@@ -1,0 +1,19 @@
+{
+  "name": "vuedog",
+  "version": "0.0.1",
+  "description": "Next generation UI framework based Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuedog/vuedog.git"
+  },
+  "author": "Runrioter <runrioter@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuedog/vuedog/issues"
+  },
+  "homepage": "https://github.com/vuedog/vuedog#readme"
+}
