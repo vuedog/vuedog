@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vuedog/vuedog/issues"
   },
-  "homepage": "https://github.com/vuedog/vuedog#readme"
+  "homepage": "https://github.com/vuedog/vuedog#readme",
+  "devDependencies": {
+    "lerna": "^2.1.2"
+  }
 }
