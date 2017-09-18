@@ -4,6 +4,7 @@
   "description": "Next generation UI framework based Vue.js",
   "main": "index.js",
   "scripts": {
+    "lerna": "lerna",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

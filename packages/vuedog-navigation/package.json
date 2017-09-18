@@ -1,0 +1,11 @@
+{
+  "name": "vuedog-navigation",
+  "version": "0.0.1",
+  "description": "Navigation component for vuedog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Runrioter <runrioter@qq.com>",
+  "license": "MIT"
+}
